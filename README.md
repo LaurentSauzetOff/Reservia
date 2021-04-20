@@ -25,11 +25,6 @@ L'objectif est d'intégrer la maquette d'un site de planification de vacance nom
 - Le code doit être versionné avec git et doit avoir un repo distant sur Github ou Gitlab
 
 ## Notes sur la réalisation du projet
-- L'integration est faite sur l'éditeur Visual Studio Code avec les plugins [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) & [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph). Le thème, l'UI et les raccourcis clavier sont personnalisés.
-- [Sass](https://sass-lang.com/) est utilisé pour organiser le css. Vous trouverez le fichier sass est dans le repository (/style)
+- L'integration est faite sur l'éditeur Visual Studio Code avec les plugins [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) & [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph).
+- [Sass](https://sass-lang.com/) est utilisé pour organiser le css. Vous trouverez le fichier sass dans le dossier (/style)
 
-
-## Contact
-Si vous êtes un étudiants OpenClassrooms [devs.coffee](devs.coffee) peut vous être utile.
-
-Vous pouvez me contacter sur le [workplace d'openclassrooms](https://openclassrooms.workplace.com/profile.php?id=100054767869328), sur [twitter](https://twitter.com/lemathisbarre) ou sur mon [adresse mail](mailto:contact@mathisbarre.com)
